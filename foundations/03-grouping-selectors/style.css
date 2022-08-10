@@ -1,0 +1,12 @@
+/* styles.css */
+.click1{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.click2{
+    background-color: rgb(255, 255, 0);
+}
+.click1,.click2{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',sans-serif;
+}
